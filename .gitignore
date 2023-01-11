@@ -1,0 +1,6 @@
+*.dat
+*.data
+*.pdf
+plots/
+output/
+
