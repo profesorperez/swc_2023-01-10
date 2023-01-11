@@ -1,1 +1,1 @@
-head -n 75 basilisk.dat | tail -n 5
+head -n 75 $1 | tail -n 5
